@@ -1,6 +1,3 @@
 [submodule "leveldb"]
 	path = leveldb
-	url = ../Third_party/leveldb.git
-[submodule "snappy"]
-	path = snappy
-	url = ../Third_party/snappy.git
+	url = https://github.com/CREDITSCOM/leveldb
