@@ -1,6 +1,0 @@
-[submodule "leveldb"]
-	path = leveldb
-	url = https://github.com/CREDITSCOM/leveldb
-[submodule "snappy"]
-	path = snappy
-	url = https://github.com/CREDITSCOM/snappy
